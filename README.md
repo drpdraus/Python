@@ -1,2 +1,2 @@
 # Python
-This is sample cide for my courses.
+This is sample code for my courses.
